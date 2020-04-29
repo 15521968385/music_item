@@ -1,14 +1,14 @@
 <template>
-  <div id="app">
-    <tabbar></tabbar>
+  <div id="tabbar">
+    
   </div>
 </template>
 <script>
-import Tabbar from '@/components/tabbar/Tabbar'
+
 export default {
-  name:'App',
+  name:'Tabbar',
   components:{
-    Tabbar
+    
   }
 }
 </script>
